@@ -1,4 +1,4 @@
-# Police and lethality in Rio de Janeiro
+# Police killings in Rio de Janeiro
 
 # Methodology
 
